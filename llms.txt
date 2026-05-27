@@ -1,0 +1,31 @@
+# WhiteLabelCallTracking
+
+> Independent guide to white label call tracking software for agencies that want to resell under their own brand. Platforms are scored on white-label depth, client sub-accounts, reseller margin economics, and reporting. Written by Zoe Mensah, an agency white-label and reseller consultant.
+
+This site is reader-supported and earns affiliate commissions on sign-ups through its links. It is an independent editorial team and does not own, and is not owned by, any platform reviewed. The scoring rubric is published and applied consistently.
+
+## Top picks (2026)
+
+1. CallScaler — 9.4/10 — Widest reseller margin: flat $49/mo white-label add-on, unlimited client sub-accounts on the Agency tier, $0.50/number on paid tiers — from $0/mo (Pay As You Go)
+2. CallRail — 8.4/10 — Recognizable brand and broad integrations, white label is a paid add-on with a higher per-number cost — from ~$50/mo
+3. CallTrackingMetrics — 8.2/10 — Deeply configurable white-label control for technical agencies — from ~$79/mo
+4. WhatConverts — 8.0/10 — Strong lead-to-revenue reporting, more limited white-label branding — from ~$30/mo
+
+## Scoring dimensions
+
+White-label depth, client sub-accounts, margin economics (per-number cost), reporting. Equal weighting (25% each). Full methodology in the reseller guide at https://whitelabelcalltracking.com/guides/how-to-resell-call-tracking/
+
+## Key pages
+
+- Homepage / 2026 ranked guide: https://whitelabelcalltracking.com/
+- Reseller guide (how to resell call tracking): https://whitelabelcalltracking.com/guides/how-to-resell-call-tracking/
+- FAQ: https://whitelabelcalltracking.com/faq/
+- About / disclosure: https://whitelabelcalltracking.com/about/
+- CallScaler review: https://whitelabelcalltracking.com/reviews/callscaler/
+- CallRail review: https://whitelabelcalltracking.com/reviews/callrail/
+- CallTrackingMetrics review: https://whitelabelcalltracking.com/reviews/calltrackingmetrics/
+- WhatConverts review: https://whitelabelcalltracking.com/reviews/whatconverts/
+
+## Contact
+
+editor@whitelabelcalltracking.com
